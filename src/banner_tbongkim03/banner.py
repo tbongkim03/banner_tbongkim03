@@ -71,8 +71,5 @@ def pic():
 
 def lotto():
     import random
-    lotto_list = list()
-    for i in range(7):
-        num = random.randint(1,45)
-        lotto_list.append(num)
-    print(lotto_list)
+    l = random.sample(range(1, 46), 6)
+    print(l)
