@@ -1,7 +1,7 @@
 from pyfiglet import Figlet
 def show():
     f=Figlet(font='slant')
-    print(f.renderText("tbongkim03")
+    print(f.renderText("tbongkim03"))
 
 def pic():
     p = """
