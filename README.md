@@ -30,8 +30,8 @@ using pyfiglet, you made figlet about my Github id.
    You can download this package using `$ pip install banner_tbongkim03` to your shell
    Function is only one. `$ show-banner` this function can show my Github-id writted by pyfiglet.
 
-   ![pip install](./img/install_pip.png)
-   ![fnc](./img/fnc.png)
+   ![pip install](https://github.com/tbongkim03/banner_tbongkim03/blob/main/img/fnc.png?raw=true)
+   ![fnc](https://github.com/tbongkim03/banner_tbongkim03/blob/main/img/fnc.png?raw=true)
 
 ## **Thanks**
 
