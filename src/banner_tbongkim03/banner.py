@@ -75,4 +75,4 @@ def lotto():
     for i in range(7):
         num = random.randint(1,45)
         lotto_list.append(num)
-    print(''.join(lotto_list))
+    print(' '.join(lotto_list))
