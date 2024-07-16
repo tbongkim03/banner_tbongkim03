@@ -17,3 +17,7 @@ show-banner = 'banner_tbongkim03.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+HOMEPAGE = 'https://github.com/tbongkim03/banner_tbongkim03'
+ISSUES = 'https://github.com/tbongkim03/banner_tbongkim03/issues'
