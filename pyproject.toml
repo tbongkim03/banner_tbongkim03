@@ -1,6 +1,6 @@
 [project]
 name = "banner_tbongkim03"
-version = "0.2.4"
+version = "0.3.0"
 description = "banner project"
 authors = [
     {name = "tbongkim03", email = "tbongkim03@gmial.com"},
@@ -13,7 +13,9 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-show-banner = 'banner_tbongkim03.banner:show'
+tbongkim03-banner = 'banner_tbongkim03.banner:show'
+tbongkim03-pic = 'banner_tbongkim03.banner:pic'
+tbongkim03-lotto = 'banner_tbongkim03.banner:lotto'
 
 [tool.pdm]
 distribution = true
